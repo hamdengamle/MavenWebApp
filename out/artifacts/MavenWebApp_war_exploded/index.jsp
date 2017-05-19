@@ -11,6 +11,7 @@
   <title>WebApp</title>
 </head>
 <body>
+VIRKER DET?
 <form class="form-signin" method="POST" action="LoginServlet">
   Enter username : <input type="text" name="uName">
   Enter password : <input type="password" name="pWord">
