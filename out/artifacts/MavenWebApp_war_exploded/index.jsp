@@ -12,6 +12,7 @@
 </head>
 <body>
 VIRKER DET?
+VIRKER DET IGEN?
 <form class="form-signin" method="POST" action="LoginServlet">
   Enter username : <input type="text" name="uName">
   Enter password : <input type="password" name="pWord">
