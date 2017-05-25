@@ -8,35 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1255913e-38fc-4ed0-9886-0900865d35e8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war/MavenWebApp_war.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/classes/com/julius/BusinessLogic/BLInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/classes/com/julius/BusinessLogic/Calculations.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/classes/com/julius/Controller/AdminPostTxtServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/classes/com/julius/Controller/LoginServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/classes/com/julius/Controller/LogoutServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/classes/com/julius/Controller/NewUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/classes/com/julius/DAO/DAOInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/classes/com/julius/DAO/Database.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/lib/mysql-connector-java-6.0.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/adminPage.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/newUser.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/MavenWebApp_war_exploded/welcome.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/julius/BusinessLogic/BLInterface.class" afterPath="$PROJECT_DIR$/target/classes/com/julius/BusinessLogic/BLInterface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/julius/BusinessLogic/Calculations.class" afterPath="$PROJECT_DIR$/target/classes/com/julius/BusinessLogic/Calculations.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/julius/Controller/AdminPostTxtServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/julius/Controller/AdminPostTxtServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/julius/Controller/LoginServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/julius/Controller/LoginServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/julius/Controller/LogoutServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/julius/Controller/LogoutServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/julius/Controller/NewUser.class" afterPath="$PROJECT_DIR$/target/classes/com/julius/Controller/NewUser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/julius/DAO/DAOInterface.class" afterPath="$PROJECT_DIR$/target/classes/com/julius/DAO/DAOInterface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/julius/DAO/Database.class" afterPath="$PROJECT_DIR$/target/classes/com/julius/DAO/Database.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/MavenWebApp_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/MavenWebApp_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MavenWebApp.iml" afterPath="$PROJECT_DIR$/MavenWebApp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/julius/DAO/Database.java" afterPath="$PROJECT_DIR$/src/main/java/com/julius/DAO/Database.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,11 +23,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/julius/Controller/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Database.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/julius/DAO/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1241">
-              <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding>
                 <marker date="1495702890895" expanded="true" signature="1634:1653" ph="SELECT * FRO... users" />
                 <marker date="1495702890895" expanded="true" signature="2267:2315" ph="INSERT INTO messages... " />
@@ -71,65 +53,9 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="187">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1495703333772" expanded="true" signature="70844:70869" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="70844:70891" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="70844:70925" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="70844:70945" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="70844:70960" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="70844:72759" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="70844:72774" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71010:71316" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71029:71301" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71103:71281" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71143:71247" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71164:71225" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71367:71632" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71386:71617" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71419:71597" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71459:71563" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71480:71541" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71675:71981" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71694:71966" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71768:71946" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71808:71912" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="71829:71890" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72032:72346" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72051:72331" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72133:72311" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72173:72277" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72194:72255" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72398:72745" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72417:72730" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72532:72710" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72572:72676" ph="..." />
-                <marker date="1495703333772" expanded="true" signature="72593:72654" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Calculations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/julius/BusinessLogic/Calculations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding>
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -137,40 +63,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogoutServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/julius/Controller/LogoutServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/julius/Controller/LoginServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="92" lean-forward="false" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="114" />
+            <state relative-caret-position="305">
+              <caret line="27" column="21" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1047,7 +941,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495179190804</updated>
-      <workItem from="1495179198477" duration="9685000" />
+      <workItem from="1495179198477" duration="11188000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1495188797719</created>
@@ -1060,7 +954,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9685000" />
+    <option name="totallyTimeSpent" value="11188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1085,10 +979,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1142,73 +1036,58 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1495703333772" expanded="true" signature="70844:70869" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="70844:70891" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="70844:70925" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="70844:70945" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="70844:70960" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="70844:72759" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="70844:72774" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71010:71316" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71029:71301" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71103:71281" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71143:71247" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71164:71225" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71367:71632" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71386:71617" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71419:71597" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71459:71563" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71480:71541" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71675:71981" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71694:71966" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71768:71946" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71808:71912" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="71829:71890" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72032:72346" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72051:72331" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72133:72311" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72173:72277" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72194:72255" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72398:72745" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72417:72730" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72532:72710" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72572:72676" ph="..." />
-            <marker date="1495703333772" expanded="true" signature="72593:72654" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61110:61135" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61110:61157" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61110:61191" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61110:61211" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61110:61226" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61110:63025" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61110:63040" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61276:61582" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61295:61567" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61369:61547" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61409:61513" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61430:61491" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61633:61898" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61652:61883" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61685:61863" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61725:61829" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61746:61807" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61941:62247" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="61960:62232" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62034:62212" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62074:62178" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62095:62156" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62298:62612" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62317:62597" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62399:62577" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62439:62543" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62460:62521" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62664:63011" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62683:62996" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62798:62976" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62838:62942" ph="..." />
+            <marker date="1495705730677" expanded="true" signature="62859:62920" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/julius/BusinessLogic/Calculations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="272">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#412#413#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/web/welcome.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="264">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/julius/DAO/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1241">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <marker date="1495702890895" expanded="true" signature="1634:1653" ph="SELECT * FRO... users" />
-            <marker date="1495702890895" expanded="true" signature="2267:2315" ph="INSERT INTO messages... " />
-            <marker date="1495702890895" expanded="true" signature="2700:2722" ph="SELECT * FRO... messages" />
-            <marker date="1495702890895" expanded="true" signature="3269:3329" ph="INSERT INTO users... " />
-            <marker date="1495702890895" expanded="true" signature="4215:4263" ph="SELECT ID FR... users" />
-            <marker date="1495702890895" expanded="true" signature="4669:4705" ph="SELECT Usern... users" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1220,10 +1099,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/julius/DAO/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <marker date="1495702890895" expanded="true" signature="1634:1653" ph="SELECT * FRO... users" />
+            <marker date="1495702890895" expanded="true" signature="2267:2315" ph="INSERT INTO messages... " />
+            <marker date="1495702890895" expanded="true" signature="2700:2722" ph="SELECT * FRO... messages" />
+            <marker date="1495702890895" expanded="true" signature="3269:3329" ph="INSERT INTO users... " />
+            <marker date="1495702890895" expanded="true" signature="4215:4263" ph="SELECT ID FR... users" />
+            <marker date="1495702890895" expanded="true" signature="4669:4705" ph="SELECT Usern... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
