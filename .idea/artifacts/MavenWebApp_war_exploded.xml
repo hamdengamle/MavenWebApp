@@ -7,7 +7,7 @@
           <element id="module-output" name="MavenWebApp" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:6.0.6" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.40" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="MavenWebApp/web/Web" />

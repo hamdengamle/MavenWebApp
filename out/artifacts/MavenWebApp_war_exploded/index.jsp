@@ -11,7 +11,7 @@
   <title>WebApp</title>
 </head>
 <body>
-Fail kigger mig over skulderen
+RDS Connection?
 <form class="form-signin" method="POST" action="LoginServlet">
   Enter username : <input type="text" name="uName">
   Enter password : <input type="password" name="pWord">

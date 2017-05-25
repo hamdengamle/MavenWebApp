@@ -12,11 +12,11 @@ public class Database {
 
     private Database() {
 
-        String url = "jdbc:mysql://localhost:3306/";
+        String url = "jdbc:mysql://faisaltest.cb0dhoyk9s4v.eu-central-1.rds.amazonaws.com:3306/";
         String dbName = "userdb";
         String driver = "com.mysql.jdbc.Driver";
         String user = "root";
-        String pass = "nolimit";
+        String pass = "nolimit420";
 
         try {
             Class.forName(driver).newInstance();
